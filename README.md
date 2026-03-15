@@ -114,22 +114,6 @@ Built a Power Automate workflow to eliminate repetitive manual data entry. Struc
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kinisha20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinisha20&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=kinisha20&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
-
 ## LeetCode Progress
 
 > Actively solving daily — SQL-heavy with Python. This card updates automatically.
@@ -169,6 +153,22 @@ Built a Power Automate workflow to eliminate repetitive manual data entry. Struc
 Gautam Buddha University, Greater Noida `2022 – May 2026`
 
 Coursework: DBMS · Statistics · Data Structures · Machine Learning · Computer Networks
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kinisha20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinisha20&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=kinisha20&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
 
 ---
 
