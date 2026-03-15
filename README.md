@@ -89,6 +89,7 @@ Built a Power Automate workflow to eliminate repetitive manual data entry. Struc
 ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 **Languages**
 
@@ -121,9 +122,21 @@ Built a Power Automate workflow to eliminate repetitive manual data entry. Struc
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinisha20&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=kinisha20&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+---
+
+## LeetCode Progress
+
+> Actively solving daily — SQL-heavy with Python. This card updates automatically.
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/kinishagupta?theme=dark&font=Nunito&ext=heatmap&hide_border=true&border_radius=8" />
 
 </div>
 
